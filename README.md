@@ -1,6 +1,6 @@
 # treino
 
-A new Flutter project.
+Código flutter está na pasta lib, onde se encontra a main.dart
 
 ## Getting Started
 
